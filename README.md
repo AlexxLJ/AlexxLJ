@@ -4,7 +4,7 @@
 -
 - I'm looking to collaborate on microbit, arduino, C and python projects.
 - 💞️ This repository serves as a showcase for my journey and an invitation for collaboration! 
-- 📫 How to reach me -> laoshilex@gmail.com
+- 📫 How to reach me -> laoshilex@outlook.com
 - I love to join different community and competition that involve creating something for the society.
 -         
 - ⚡ Fun facts: I'm a creative problem-solver who loves exploring different cultures and languages. 
