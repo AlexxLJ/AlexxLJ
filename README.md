@@ -3,6 +3,7 @@
 - 🌱 I'm actively learning about the intersection of software and hardware,  and I enjoy bringing digital designs to life through tangible projects. I'm looking to collaborate on microbit, arduino, C and python projects.
    ## Tecnologias 💻
    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -10,10 +11,14 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - 💞️ This repository serves as a showcase for my journey and an invitation for collaboration! 
 - 📫 How to reach me -> laoshilex@outlook.com
--         
-- ⚡ Fun facts: I'm a creative problem-solver who loves exploring different cultures and languages. I love to join different community and competition that involve creating something for the society.
-- I count with two years of experience in teaching Chinese and Spanish and developing educational games on Scratch.
-- In my free time, I enjoy going to the gym, reading, and watching anime.
+
+
+
+  
+- ⚡ Fun facts:
+  - I'm a creative problem-solver who loves exploring different cultures and languages. I love to join different community and competition that involve creating something for the society.
+  - I count with two years of experience in teaching Chinese and Spanish and developing educational games on Scratch.
+  - In my free time, I enjoy going to the gym, reading, and watching anime.
   
 <!---
 AlexxLJ/AlexxLJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
